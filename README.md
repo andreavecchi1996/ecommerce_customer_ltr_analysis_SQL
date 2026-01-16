@@ -18,12 +18,24 @@ This analysis uses four tables from Fecom Inc.'s BigQuery CRM: customer_list, or
 Before analysis, the BigQuery tables were loaded into Jupyter notebooks to verify correct data ingestion and format. Quality checks and initial SQL queries for exploration are included in the notebook in the [Data Selection](ecommerce_customer_ltv_analysis.ipynb#data-selection) section.
 
 # Executive Summary
-### Overview of Findings
+## Overview of Findings
+
+### Which countries have the highest percentage of returning customers?
+  
 Finland and Croatia currently have the highest share of customers who place at least a second order, with Finland above 5% returning customer rate.
+<img width="1090" height="699" alt="Image" src="https://github.com/user-attachments/assets/5af3a818-d030-4574-bfe3-a672524cd275" />
 
-However, returning customer percentage alone does not indicate customer value. Countries with high return rates but low order volume or low revenue may not justify increased marketing investment.
+### Which countries generate the highest lifetime revenue per customer (LTR)?
+  
+Based on this query, Slovakia, Luxembourg, and Finland have the highest lifetime revenue per customer. Slovakia stands out because it combines a high average LTR with a relatively large customer base (around 530 customers) and a total revenue of about 115k, compared with the much smaller bases in Luxembourg and Finland.
 
-<img width="640" height="453" alt="Image" src="https://github.com/user-attachments/assets/4a3abc65-04f5-4e39-98e5-02d2b5971c41" />
+<img width="651" height="453" alt="Image" src="https://github.com/user-attachments/assets/fb0f88bd-150e-4ab4-a40d-2b4755f60011" />
+
+
+
+<img width="631" height="433" alt="Image" src="https://github.com/user-attachments/assets/bfaa4b95-2bd5-4bff-8e6c-7fcf3baf2065" />
+<img width="631" height="433" alt="Image" src="https://github.com/user-attachments/assets/7c28db8a-b34c-45da-8671-0d38aa8f8625" />
+
 
 
 
