@@ -8,11 +8,11 @@ Key Questions Answered:
 2. Which countries generate the highest lifetime revenue per customer?  
 3. Which product categories drive lifetime revenue in top markets?
 
-The SQL queries (data quality checks, business questions and charts) are contained in a Jupyter notebook here
+The SQL queries (data quality checks, business questions and charts) are contained in this Jupyter notebook [here](ecommerce_customer_ltv_analysis.ipynb)
+---
+### Data Structure & Initial Checks
+This analysis uses four tables from Fecom Inc.'s CRM: customer_list, orders, order_items, and products, with a total row count of roughly 300k records 
 
-
-
-<img width="459" height="419" alt="Image" src="https://github.com/user-attachments/assets/3a211fc7-6095-45a0-9d55-45555fed52be" />
 
 
 
