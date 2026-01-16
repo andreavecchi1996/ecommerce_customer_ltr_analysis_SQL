@@ -8,6 +8,12 @@ Key Questions Answered:
 2. Which countries generate the highest lifetime revenue per customer?  
 3. Which product categories drive lifetime revenue in top markets?
 
+The SQL queries (data quality checks, business questions and charts) are contained in a Jupyter notebook here
+
+
+
+<img width="459" height="419" alt="Image" src="https://github.com/user-attachments/assets/3a211fc7-6095-45a0-9d55-45555fed52be" />
+
 
 
 ---
