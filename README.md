@@ -46,6 +46,26 @@ Health_Beauty and Watches_Gifts are the top lifetime revenue generating product 
 <img width="709" height="433" alt="Image" src="https://github.com/user-attachments/assets/66936d62-8c0b-4701-a837-cf2a3808cd40" />
 <img width="709" height="453" alt="Image" src="https://github.com/user-attachments/assets/ddda3aa1-72fd-4910-bd6a-b7b376ee534e" />
 
+## Recommendation
+Based on the uncovered insights, the following recommendations have been provided:
+
+Finland and Croatia currently have the highest share of customers placing at least a second order, with Finland exceeding a 5% returning-customer rate. However, the return rate alone does not guarantee high customer value; countries with strong repeat behaviour but low order volume or revenue are not necessarily priority markets for additional spending.
+​
+
+Countries with the highest lifetime revenue per customer are Slovakia, Luxembourg, and Finland, with Slovakia standing out by combining a high average LTR with a relatively large customer base (around 530 customers) and total revenue of about €115k, while Luxembourg and Finland reach similar LTR levels on much smaller bases.
+​
+
+Taking both scale and value into account, the recommended focus markets are:
+
+  Portugal: very high total revenue and many customers, with only a small gap in average LTR versus the very top countries.
+  Sweden: high total revenue and large customer base, mid returning %, slightly lower LTR.
+  Denmark: solid revenue and customer volume, with a stronger LTR than Sweden.
+  Slovakia: highest LTR, plus a decent customer base and strong total revenue.
+
+Within these priority markets, Health_Beauty and Watches_Gifts are the top lifetime‑revenue‑generating product categories. Fecom should focus on upsell and cross‑sell programs around these categories: for Health_Beauty, offer discounted complementary items when a customer initially buys only one product (classic cross‑sell); for Watches_Gifts, target existing watch buyers with higher‑end models and accessories as upsell opportunities to grow LTR efficiently.
+​
+
+
 
 
 
