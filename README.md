@@ -14,8 +14,7 @@ The SQL queries (data quality checks, business questions and charts) are contain
 # Tech Stack
 
 - **Data warehouse**: Google BigQuery
-- **Querying**: SQL (executed via the BigQuery Python client)
-- **Analysis**: Python (pandas)
+- **Analysis**: Python (pandas), SQL (executed via the BigQuery Python client)
 - **Visualization**: matplotlib, seaborn
 - **Environment**: Jupyter Notebook
 - **Version control**: Git & GitHub
